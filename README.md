@@ -1,0 +1,1 @@
+Paginação de registros em orientado a objetos
